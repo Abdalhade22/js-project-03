@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    padding: 20px;
+    border: 2px solid #ef0b0b;
+    border-radius: 8px;
+}
+
+.active {
+    background-color: #2ecc71;
+    color: rgb(254, 254, 254);
+}
